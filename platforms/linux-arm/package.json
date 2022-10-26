@@ -1,6 +1,6 @@
 {
   "name": "@ffmpeg-installer/linux-arm",
-  "version": "4.1.3",
+  "version": "5.1.1",
   "description": "Linux FFmpeg binary used by ffmpeg-installer",
   "homepage": "https://www.johnvansickle.com/ffmpeg/",
   "scripts": {
@@ -28,5 +28,5 @@
   ],
   "author": "Luis Antonio González <luisangonzazlez@gmail.com>",
   "license": "GPLv3",
-  "ffmpeg": "20190605-gd81913e680"
+  "ffmpeg": "5.1.1"
 }
