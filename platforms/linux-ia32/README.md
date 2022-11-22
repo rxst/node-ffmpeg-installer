@@ -1,4 +1,4 @@
 Do not use directly, use ffmpeg-installer:
 
-    npm install --save @ffmpeg-installer/ffmpeg
+    npm install --save node-ffmpeg-installer
     
