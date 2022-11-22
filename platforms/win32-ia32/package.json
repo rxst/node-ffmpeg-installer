@@ -1,5 +1,5 @@
 {
-  "name": "@ffmpeg-installer/win32-ia32",
+  "name": "@node-ffmpeg/win32-ia32",
   "version": "4.1.0",
   "description": "Windows FFmpeg binary used by ffmpeg-installer",
   "homepage": "https://ffmpeg.zeranoe.com/builds/win32/static/",

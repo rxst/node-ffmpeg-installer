@@ -1,5 +1,5 @@
 {
-  "name": "@ffmpeg-installer/darwin-x64",
+  "name": "@node-ffmpeg/darwin-x64",
   "version": "5.1.1",
   "description": "Mac OS X FFmpeg binary used by ffmpeg-installer",
   "homepage": "https://evermeet.cx/ffmpeg/",

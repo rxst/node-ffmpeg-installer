@@ -1,5 +1,5 @@
 {
-  "name": "@thetalabs/node-ffmpeg-installer",
+  "name": "@node-ffmpeg/node-ffmpeg-installer",
   "version": "1.1.0",
   "main": "index.js",
   "scripts": {
@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thetatoken/node-ffmpeg-installer"
+    "url": "git+https://github.com/rxst/node-ffmpeg-installer"
   },
   "bugs": {
-    "url": "https://github.com/thetatoken/node-ffmpeg-installer/issues"
+    "url": "https://github.com/rxst/node-ffmpeg-installer/issues"
   },
-  "homepage": "https://github.com/thetatoken/node-ffmpeg-installer#readme"
+  "homepage": "https://github.com/rxst/node-ffmpeg-installer#readme"
 }

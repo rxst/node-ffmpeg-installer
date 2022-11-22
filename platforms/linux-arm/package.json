@@ -1,5 +1,5 @@
 {
-  "name": "@ffmpeg-installer/linux-arm",
+  "name": "@node-ffmpeg/linux-arm",
   "version": "5.1.1",
   "description": "Linux FFmpeg binary used by ffmpeg-installer",
   "homepage": "https://www.johnvansickle.com/ffmpeg/",
